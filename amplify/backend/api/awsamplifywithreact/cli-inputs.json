@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "awsamplifywithreact",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "C:\\Users\\じゅぶ\\Desktop\\dev\\promaster\\amplifyapp-react-for-promaster\\amplify\\backend\\api\\awsamplifywithreact\\schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 7,
+      "apiKeyExpirationDate": "2022-06-08T11:39:03.898Z",
+      "keyDescription": "demo"
+    }
+  }
+}
